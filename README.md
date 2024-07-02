@@ -60,8 +60,8 @@ I'm a passionate front-end web developer with a B.Sc. in Computer Science from N
 
 ### 📈 GitHub Activity
 
-![Md. Abdullah Az Zahur's Commit Count](https://img.shields.io/github/commit-activity/m/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=for-the-badge)
-![Md. Abdullah Az Zahur's Daily Streak](https://img.shields.io/github/commit-activity/w/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=for-the-badge)
+![Md. Abdullah Az Zahur's Commit Count](https://img.shields.io/github/commit-activity/m/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=plastic)
+![Md. Abdullah Az Zahur's Daily Streak](https://img.shields.io/github/commit-activity/w/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=flat-square)
 
 ### 🛠️ Languages Used
 
