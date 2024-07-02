@@ -6,7 +6,7 @@ I'm Md. Abdullah Az Zahur.
 
 <h1 align='center'><i>About me</i></h1>
 <p>
-  # About Me
+ # About Me
 
 ## 👋 Hello, I'm Md. Abdullah Az Zahur!
 
@@ -40,16 +40,35 @@ I'm a passionate front-end web developer with a B.Sc. in Computer Science from N
 
 - Advanced React Patterns
 
+### 💼 Projects
+
+- **Survey Vista**
+  - Description: A survey application built with React and Firebase.
+  - Live Site: [Survey Vista](https://survey-vista.web.app/)
+  
+- **Job Nest**
+  - Description: A job listing platform using React and Firebase.
+  - Live Site: [Job Nest](https://job-nest-391e1.web.app/)
+  
+- **BD Art Gallery**
+  - Description: An art gallery website showcasing Bangladeshi art.
+  - Live Site: [BD Art Gallery](https://bd-art-gallery.firebaseapp.com/)
+
 ### 💬 Let's Connect
 
 - **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.az.zahur@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-az-zahur/)
-- **Twitter**: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdabdullahazahur)
+- **Twitter**: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abdullahazzahur)
+- **Facebook**: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdullahaazzahur.giyas)
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-Az-Zahur)
 
 ### 📈 GitHub Stats
 
-![Md. Abdullah Az Zahur's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Md. Abdullah Az Zahur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Az-Zahur&show_icons=true&theme=radical)
 
+---
+
+Feel free to customize this template according to your preferences. Let me know if there are any other adjustments you would like to make!
 
 </p>
 
