@@ -60,8 +60,8 @@ I'm a passionate front-end web developer with a B.Sc. in Computer Science from N
 
 ### 📈 GitHub Activity
 
-![Md. Abdullah Az Zahur's Commit Count](https://img.shields.io/github/commit-activity/m/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=plastic)
-![Md. Abdullah Az Zahur's Daily Streak](https://img.shields.io/github/commit-activity/w/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=flat-square)
+![Md. Abdullah Az Zahur's Commit Count](https://img.shields.io/github/commit-activity/m/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=for-the-badge&label=Commit%20Count&color=blue)
+![Md. Abdullah Az Zahur's Daily Streak](https://img.shields.io/github/commit-activity/w/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=for-the-badge&label=Daily%20Streak&color=green)
 
 ### 🛠️ Languages Used
 
@@ -69,7 +69,7 @@ I'm a passionate front-end web developer with a B.Sc. in Computer Science from N
 
 ---
 
-Feel free to customize this template further according to your preferences. Let me know if there are any other adjustments you would like to make!
+Feel free to customize this template further according to your preferences. The badges for Commit Count and Daily Streak now use the Dev Metrics style with customized labels and colors. Let me know if there are any other adjustments you would like to make!
 
 </p>
 
