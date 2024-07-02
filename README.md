@@ -50,16 +50,6 @@ I'm a passionate front-end web developer with a B.Sc. in Computer Science from N
 
 ![Md. Abdullah Az Zahur's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### 🔗 Projects
-
-- **Project 1**: [Project Name](https://github.com/yourusername/project1)
-  - Description: A brief description of the project and what technologies were used.
-- **Project 2**: [Project Name](https://github.com/yourusername/project2)
-  - Description: A brief description of the project and what technologies were used.
-
----
-
-Feel free to customize this template according to your preferences and add more sections if needed. Let me know if you need any help with specific parts of the `README.md` file!
 
 </p>
 
