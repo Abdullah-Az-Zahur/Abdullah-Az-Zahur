@@ -46,7 +46,7 @@ Hello! I'm Md. Abdullah Az Zahur, a front-end web developer with a B.Sc. in Comp
 
 ## 🌟 Featured Projects
 
-### [Jobify](https://job-nest-391e1.web.app/)
+### [Jobify](https://jobify-13db1.firebaseapp.com/)
 A collaborative job-seeking platform connecting users with opportunities through detailed listings and interactive features.
 
 - **Key Contributions**:
