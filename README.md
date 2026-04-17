@@ -88,7 +88,6 @@ An art gallery website showcasing Bangladeshi art with seamless CRUD operations 
   - **Institute**: IICT, Khulna University of Engineering & Technology
 - **B.Sc. in Computer Science & Engineering**
   - **University**: North Western University, Khulna
-  - **CGPA**: 3.23/4.00
 
 ---
 
