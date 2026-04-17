@@ -1,76 +1,79 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abdullah-Az-Zahur/Abdullah-Az-Zahur/main/assets/GitHub.gif" width="100%" alt="Banner" />
-  <h1>Hi! 👋 I'm Md. Abdullah Az Zahur</h1>
-  <p><i>Web Developer | M.Sc. Student at KUET | Tech Explorer</i></p>
-</div>
-
----
-
-### 🌟 About Me
-[cite_start]I see websites as more than just pages—they're experiences[cite: 10]. [cite_start]I'm a passionate Full-Stack Developer currently pursuing my **M.Sc.Eng. in ICT** at **Khulna University of Engineering & Technology (KUET)**[cite: 57, 58]. [cite_start]I take pride in building interactive, user-friendly, and high-performing web solutions that teams love to maintain and users love to explore[cite: 10].
-
-* [cite_start]🎓 **B.Sc. in CSE** from North Western University (CGPA: 3.23)[cite: 59, 60].
-* [cite_start]🔬 **Researcher:** Published thesis on Parkinson Disease prediction using Genetic Algorithms[cite: 68].
-* [cite_start]🎯 **Goal:** Building scalable SaaS and digital solutions for a global audience[cite: 21, 23].
-
----
-
-### 🛠️ Technical Arsenal
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | [cite_start]JavaScript (ES6+), TypeScript, PHP, HTML5, CSS3 [cite: 13] |
-| **Frontend** | [cite_start]React, Next.js, Tailwind CSS, Redux Toolkit, Framer Motion [cite: 14] |
-| **Backend** | [cite_start]Node.js, Express.js, REST APIs, JWT, Firebase [cite: 14] |
-| **Database** | [cite_start]MongoDB [cite: 14] |
-| **Tools** | [cite_start]Git, VS Code, Postman, Axios, Netlify, React Hook Form [cite: 14] |
-
----
-
-### 💼 Professional Experience
-
-#### **Front-End Developer Intern** | [cite_start]Encoder IT Solution [cite: 24]
-[cite_start]*Mar 2025 – Jun 2025* [cite: 25]
-* [cite_start]Built full-stack MERN modules with secure CRUD and JWT authentication[cite: 26].
-* [cite_start]Developed custom PHP plugins for WordPress projects (EISNews)[cite: 27].
-* [cite_start]Collaborated on production-ready apps like HQMotoServices and Mithun-Chakra[cite: 26].
-
-#### **Front-End Developer Intern** | [cite_start]Qwik IT Services (Canada) [cite: 29, 30]
-[cite_start]*Feb 2025 – Apr 2025* [cite: 31, 32]
-* [cite_start]Converted static HTML/CSS designs into dynamic React applications (Qwik-Bistro)[cite: 33].
-* [cite_start]Developed a JavaScript-based construction calculator, later adapted into an Android app[cite: 34].
-
----
-
-### 🚀 Featured Projects
-
-* [cite_start]**Jobify (Team Project)** [cite: 37]
-    * [cite_start]A collaborative job-seeking platform with multilingual support and employee dashboards[cite: 40, 43].
-    * [cite_start]**Tech:** React, Tailwind, Node.js, MongoDB, Redux Toolkit[cite: 46].
-* [cite_start]**Survey Vista** [cite: 47]
-    * [cite_start]MERN survey platform featuring role-based dashboards and payment gateway integration[cite: 49, 51, 53].
-    * [cite_start]**Tech:** React, TanStack Query, Firebase, Node.js[cite: 55].
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Az-Zahur&show_icons=true&theme=radical" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Az-Zahur&layout=compact&theme=radical" alt="Languages" height="180px" />
+![Social banner for Md. Abdullah Az Zahur](assets/GitHub.gif)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Md. Abdullah Az Zahur.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=for-the-badge&label=Commits&color=blue" />
-  <img src="https://img.shields.io/github/followers/Abdullah-Az-Zahur?style=for-the-badge&label=Followers&color=green" />
-</p>
+<h1 align='center'><i>About me</i></h1>
+<p>
+# About Me
+
+## 👋 Hello, I'm Md. Abdullah Az Zahur!
+
+I'm a passionate front-end web developer with a B.Sc. in Computer Science from North Western University. I enjoy building interactive and user-friendly web applications. My journey in web development started with a curiosity for how websites work and has since grown into a full-fledged career.
+
+### 🌟 Skills
+
+- **Languages**:
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Frameworks/Libraries**:
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- **Tools**:
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- **Design**:
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- **Databases**:
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📚 Education
+
+- **B.Sc. in Computer Science** - North Western University
+
+### 🌱 Currently Learning
+
+- Advanced React Patterns
+
+### 💼 Projects
+
+- **Survey Vista**
+  - Description: A survey application built with React and Firebase.
+  - A Survey application using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project involves integrating payment functionalities, implementing a robust user management system, and creating an admin dashboard with role management.
+  - Live Site: [Survey Vista](https://survey-vista.web.app/)
+  
+- **Job Nest**
+  - Description: A job listing platform using React and Firebase.
+  - I am developing a comprehensive job-seeking platform using the MERN (MongoDB, Express.js, React, Node.js) stack. This project includes creating intuitive job posting and search functionalities categorized into On-Site, Remote, Hybrid, and Part-Time roles. Key features encompass seamless job application submissions, user profile management, and tracking applied jobs. The website incorporates JWT authentication for secure logins, a responsive navbar with conditional rendering based on user authentication, and a dynamic theme toggling feature.
+  - Live Site: [Job Nest](https://job-nest-391e1.web.app/)
+  
+- **BD Art Gallery**
+  - Description: An art gallery website showcasing Bangladeshi art.
+  - A comprehensive Art & Craft Store website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project features seamless CRUD operations for managing craft items, user authentication with JWT, dynamic frontend with React components, and protected routes for adding, updating, and viewing detailed craft listings. The website includes social login options, responsive design, and showcases a variety of crafted items categorized for easy navigation.
+  - Live Site: [BD Art Gallery](https://bd-art-gallery.firebaseapp.com/)
+
+### 📊 GitHub Stats
+
+![Md. Abdullah Az Zahur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Az-Zahur&show_icons=true&theme=radical)
+
+### 📈 GitHub Activity
+
+![Md. Abdullah Az Zahur's Commit Count](https://img.shields.io/github/commit-activity/m/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=for-the-badge&label=Commit%20Count&color=blue)
+![Md. Abdullah Az Zahur's Daily Streak](https://img.shields.io/github/commit-activity/w/Abdullah-Az-Zahur/Abdullah-Az-Zahur?style=for-the-badge&label=Daily%20Streak&color=green)
+
+### 🛠️ Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Az-Zahur&layout=compact&theme=radical)
 
 ---
 
-### 📫 Connect With Me
-* [cite_start]🌐 **Portfolio:** [Visit My Site](https://portfolio-v2-beige-eta.vercel.app/) [cite: 8]
-* [cite_start]💼 **LinkedIn:** [in/md-abdullah-az-zahur](https://www.linkedin.com/in/md-abdullah-az-zahur/) [cite: 6]
-* [cite_start]📧 **Email:** [abdullah.az.zahur@gmail.com](mailto:abdullah.az.zahur@gmail.com) [cite: 5]
-* [cite_start]📞 **Phone:** [+88-01705-697897](tel:+8801705697897) [cite: 4]
+Feel free to customize this template further according to your preferences. The badges for Commit Count and Daily Streak now use the Dev Metrics style with customized labels and colors. Let me know if there are any other adjustments you would like to make!
 
-<p align="center"><i>"Stay Awesome!"</i></p>
+</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
