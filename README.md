@@ -6,11 +6,32 @@
 🌟 Passionate Web Developer | 🚀 Building Interactive Web Experiences
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Abdullah-Az-Zahur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+<img src="https://img.shields.io/github/followers/Abdullah-Az-Zahur?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers">
+<img src="https://img.shields.io/github/stars/Abdullah-Az-Zahur?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat&color=0e75b6" alt="GitHub Stars">
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
 Hello! I'm Md. Abdullah Az Zahur, a web developer with a B.Sc. in Computer Science from North Western University. I specialize in creating interactive, user-friendly web applications and have a keen interest in emerging web technologies.
+
+## ✨ Quick Highlights
+
+- 🎓 M.Sc.Eng. in ICT (Running), KUET
+- 💼 Focused on MERN stack and modern frontend architecture
+- 🌐 Building responsive, accessible, and scalable web apps
+- 🤝 Open to collaboration on impactful web products
+
+---
+
+## 🧰 Tech Snapshot
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,vscode,postman&perline=7" alt="Tech Stack Icons">
+</p>
 
 ---
 
@@ -99,8 +120,22 @@ A comprehensive MERN-based survey creation and participation platform featuring 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Az-Zahur&show_icons=true&theme=radical" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Az-Zahur&layout=compact&theme=radical" alt="Top Languages">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Az-Zahur&theme=radical&no-frame=true" alt="GitHub Trophies">
+<img src="https://streak-stats.demolab.com?user=Abdullah-Az-Zahur&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Az-Zahur&repo=Abdullah-Az-Zahur&theme=radical" alt="Profile Repository Card">
 </p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Az-Zahur&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Building production-ready full-stack web applications
+- Deepening expertise in TypeScript and scalable React patterns
+- Improving backend performance and API security best practices
+- Contributing to open-source and collaborative projects
 
 ---
 
