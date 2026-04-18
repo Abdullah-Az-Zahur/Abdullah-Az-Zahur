@@ -3,14 +3,14 @@
 <h1 align='center'>Hi! 👋 I'm Md. Abdullah Az Zahur</h1>
 
 <p align='center'>
-🌟 Passionate Front-End Web Developer | 🚀 Building Interactive Web Experiences
+🌟 Passionate Web Developer | 🚀 Building Interactive Web Experiences
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hello! I'm Md. Abdullah Az Zahur, a front-end web developer with a B.Sc. in Computer Science from North Western University. I specialize in creating interactive, user-friendly web applications and have a keen interest in emerging web technologies.
+Hello! I'm Md. Abdullah Az Zahur, a web developer with a B.Sc. in Computer Science from North Western University. I specialize in creating interactive, user-friendly web applications and have a keen interest in emerging web technologies.
 
 ---
 
@@ -64,14 +64,6 @@ A comprehensive MERN-based survey creation and participation platform featuring 
   - Developed secure authentication systems.
 - **Technologies**: React, Tailwind CSS, Node.js, Express, MongoDB, Firebase
 
-### [BD Art Gallery](https://bd-art-gallery.firebaseapp.com/)
-An art gallery website showcasing Bangladeshi art with seamless CRUD operations and user authentication.
-
-- **Key Features**:
-  - Dynamic frontend with React components.
-  - Social login options and responsive design.
-- **Technologies**: React, Tailwind CSS, Node.js, Express, MongoDB
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -107,7 +99,7 @@ An art gallery website showcasing Bangladeshi art with seamless CRUD operations 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Az-Zahur&show_icons=true&theme=radical" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Az-Zahur&layout=compact&theme=radical" alt="Top Languages">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Az-Zahur&theme=radical" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Az-Zahur&theme=radical&no-frame=true" alt="GitHub Trophies">
 </p>
 
 ---
